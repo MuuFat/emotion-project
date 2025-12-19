@@ -40,20 +40,20 @@ Assignment Emotion/
 
 ## How to Run the Project
 
-1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/MuuFat/assignment-emotion.git
 cd assignment-emotion
 
-2. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
-3. Run the program
+### 3. Run the program
 Depending on the project structure:
 python main.py
 or open and run the Jupyter Notebook:
 jupyter notebook
 
-##Methodology
+## Methodology
 
 1. Data collection and preprocessing
 2. Feature extraction (if applicable)
@@ -61,24 +61,24 @@ jupyter notebook
 4. Evaluation of results
 5. Interpretation of findings
 
-##Results
+## Results
 
 The results demonstrate the effectiveness of the chosen approach in identifying or analysing emotional patterns within the dataset. Outputs may include accuracy scores, confusion matrices, visualisations, or emotion predictions.
 
-##Limitations
+## Limitations
 
 · Dataset size or quality constraints
 · Limited emotion categories
 · Model performance may vary depending on input data
 
-##Future Improvements
+## Future Improvements
 
 ·Expand dataset for better generalisation
 ·Experiment with alternative models or techniques
 ·Improve preprocessing and feature extraction
 ·Add a user interface or real-time emotion detection
 
-##Author
+## Author
 MuuFat
 
 License
