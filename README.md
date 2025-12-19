@@ -40,14 +40,14 @@ Assignment Emotion/
 
 ## How to Run the Project
 
-### 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/MuuFat/assignment-emotion.git
 cd assignment-emotion
 
-###2. Install dependencies
+2. Install dependencies
 pip install -r requirements.txt
 
-###3. Run the program
+3. Run the program
 Depending on the project structure:
 python main.py
 or open and run the Jupyter Notebook:
